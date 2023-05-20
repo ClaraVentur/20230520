@@ -1,0 +1,45 @@
+h1
+{
+    text-align: center;
+    color: gray;
+    font-size: 70;
+    font-family: Arial;
+
+}
+.domingo
+{
+    background-color: #fff58c;
+    color: red;
+}
+.sabado
+{
+    background-color: #647bf5;
+    color: #020a36
+}
+td
+{
+    font-weight: bold;
+    text-align: center;
+    border-radius: 10%;
+}
+table
+{
+    margin: auto;
+    font-size: 40;
+    width: 1000;
+    height: 340;
+    font-size: 35;
+    font-family: arial;
+}
+p
+{
+    text-align: center;
+}
+#feriado
+{
+    color: red;
+}
+#diadasemana
+{
+    background-color: #c7c8c9;
+}
